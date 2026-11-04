@@ -6,5 +6,6 @@ coverage
 .env*
 !.env.example
 *.log
-.DS_Storetsconfig.tsbuildinfo
+.DS_Store
+tsconfig.tsbuildinfo
 .vercel
